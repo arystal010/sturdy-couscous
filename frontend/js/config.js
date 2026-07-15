@@ -3,7 +3,7 @@
 // e.g. "https://arys-ai.YOUR_USERNAME.workers.dev/api/chat"
 
 export const CONFIG = {
-    API_URL: "https://YOUR-WORKER.workers.dev/api/chat",
+    API_URL: "https://sturdy-couscous1.ackcrp.workers.dev/api/chat",
 
     APP_NAME: "Arys AI",
     MAX_INPUT_ROWS: 8,
